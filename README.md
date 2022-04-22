@@ -8,3 +8,4 @@ contains
 
 I've named it `starter`, because I use this dictionary as very first when doing files/folders enumeration on the webserver.
 
+### Коллекция кастомных словарей для брутфорса файлов и директорий на веб-сайте
